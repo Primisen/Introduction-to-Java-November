@@ -1,1 +1,2 @@
-# Introduction-to-Java-November
+ - part1 -- Задание №1 от 17.11
+ - part2 -- Задание №2 от 23.11
