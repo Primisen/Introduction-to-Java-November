@@ -59,7 +59,7 @@ public class Task1 {
 
         System.out.print("Enter number (int type): ");
 
-        while (!scanner.hasNextInt()) { //проверка правильности вводимых пользователем данных
+        while (!scanner.hasNextInt()) {
             System.out.println("Incorrect input. Try again");
             scanner.next();
         }
